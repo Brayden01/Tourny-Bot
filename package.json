@@ -1,7 +1,5 @@
 {
-  "engines": {
-    "node": "6.2.2"
-  },
+ 
   "name": "reputation bot",
   "version": "1.0.0",
   "description": "Discord Rep Bot",
